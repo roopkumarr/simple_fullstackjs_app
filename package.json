@@ -1,12 +1,20 @@
 {
   "name": "react-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple job portal app(full stack) with github job api, redis for server side cache, react & material UI. Refering the freecodecamp video",
   "main": "index.js",
+  "keywords": [
+    "express",
+    "react",
+    "cron",
+    "redis",
+    "materialUI",
+    "freecodecamp"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Roop Kumar R",
   "license": "ISC",
   "dependencies": {
     "cron": "^1.7.2",
